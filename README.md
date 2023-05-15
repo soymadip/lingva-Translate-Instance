@@ -24,7 +24,7 @@ These are the currently OFFICIAL *Lingva* instances:-
 | [lingva.garudalinux.org](https://lingva.garudalinux.org/)                   | [Hetzner](https://hetzner.com/)           | [Cloudflare](https://www.ssllabs.com/ssltest/analyze.html?d=lingva.garudalinux.org)             |
 | [translate.jae.fi](https://translate.jae.fi/)                               | Self-hosted                               | [Let's Encrypt](https://www.ssllabs.com/ssltest/analyze.html?d=translate.jae.fi)                |
 
-ALSO MY INSTANCE IS ALSO PUBLICLY AVAILABLE.... 
+MY INSTANCE IS ALSO PUBLICLY AVAILABLE.... 
 
 ## Public APIs
 
