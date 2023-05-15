@@ -3,7 +3,7 @@
 <img src="public/logo.svg" width="128" align="right">
 An alternative front-end for Google Translate, serving as a FOSS translator with over a hundred languages available.
 
-
+-----
 [![Vercel Status](https://img.shields.io/github/deployments/soymadip/lingva-Translate-Instance/Production?label=vercel&logo=vercel&color=f5f5f5)](https://lingva.ml/)
 [![Travis Build](https://travis-ci.com/soymadip/lingva-Translate-Instance.svg?branch=main)](https://travis-ci.com/thedaviddelta/lingva-translate)
 [<img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="20">](https://lingva-translate-instance.vercel.app/)
