@@ -28,7 +28,7 @@ MY INSTANCE IS ALSO PUBLICLY AVAILABLE....
 
 ## Public APIs
 
-My instance's API is `https://lingva-translate-instance.vercel.app/api/v1`
+My instance's API is `https://translate-soymadip.vercel.app/api/v1`
 
 # OFFICIAL PROJECT
 
